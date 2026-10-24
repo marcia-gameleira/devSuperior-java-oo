@@ -1,8 +1,8 @@
-package aula_07;
+package aula_07.app;
 
 import aula_07.entities.Triangle;
 
-public class MainAula07 {
+public class MainTriangle {
 
     public static void main(String[] args) {
 
